@@ -8,3 +8,5 @@ The two models will thereby be distinguished by name suggesting its main feature
 https://www.thingiverse.com/thing:3865215
 2. Microphotography Phone Adapter
 soon available
+
+A set of interesting observations will be described here and I invite the community to participarte in this repository and add your photographs and experiences to enrich our knowledge of the micro-world that sorround us.
