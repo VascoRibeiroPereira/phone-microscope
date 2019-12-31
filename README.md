@@ -5,8 +5,9 @@ The Phone-Microscope comprises two models of 3D printed parts, mounted with lens
 The two models will thereby be distinguished by name suggesting its main feature, and are available for download in Thingiverse.
 
 1. Projection Phone Microscope
-https://www.thingiverse.com/thing:3865215
+
+
 2. Microphotography Phone Adapter
-soon available
+https://www.thingiverse.com/thing:3865215
 
 A set of interesting observations will be described here and I invite the community to participarte in this repository and add your photographs and experiences to enrich our knowledge of the micro-world that sorround us.
